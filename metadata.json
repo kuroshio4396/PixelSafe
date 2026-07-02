@@ -1,0 +1,6 @@
+{
+  "name": "图片打码工具 (PixelSafe)",
+  "description": "一个用于图片打码的工具，支持画笔涂抹和高斯模糊处理。提供多种笔触大小选项以及模糊程度调节，并能导出处理后的最终文件。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
